@@ -1,0 +1,2 @@
+# Monolythic
+monolythic architecture
